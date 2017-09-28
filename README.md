@@ -1,3 +1,3 @@
-# salataje
+# salataje character main
 
-Ching Chong Ping Pong Wok Pang
+This branch contains primary character assets/scripts
